@@ -21,3 +21,5 @@ Here is a `code nippet`
   1. numbered item
   2. numbered item
   3. numbered item
+
+  `Example Journal Name : 2016-03-16-wednesday-journal.md`
